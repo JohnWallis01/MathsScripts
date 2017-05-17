@@ -8,7 +8,7 @@ function fermatTest(n) {
   return (true);
 
 }
-
+//This absoultuly sucks
 function fermatSieve(n) {
   output = [];
   for(i = 2; i <=n; i++) {
